@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-ibm
+ibm-watsonx-ai
+ibm_watson_machine_learning
+tiktoken
+chromadb
+bs4
